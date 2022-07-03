@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Luiscorrea23/asincronycJs/issues"
   },
-  "homepage": "https://github.com/Luiscorrea23/asincronycJs#readme"
+  "homepage": "https://github.com/Luiscorrea23/asincronycJs#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
