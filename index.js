@@ -1,2 +1,2 @@
 var test = "Test"
-console.log("test")
+console.log("test.")
